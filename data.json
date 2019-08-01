@@ -1,0 +1,7 @@
+[
+	{ "title": "Pride and Prejudice", "author": "Jane Austen", "words": 120000, "published": 1813 },
+	{ "title": "Cryptonomicon", "author": "Neal Stephenson", "words": 415000, "published": 1999 },
+	{ "title": "Great Gatsby", "author": "F. Scott Fitzgerald", "words": 47094, "published": 1925 },
+	{ "title": "Song of Solomon", "author": "Toni Morrison", "words": 92400, "published": 1977 },
+	{ "title": "White Teeth", "author": "Zadie Smith", "words": 169000, "published": 2000 }
+]
